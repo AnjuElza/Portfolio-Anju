@@ -119,7 +119,7 @@ nav {
     gap: 2.5rem;
     max-width: 68.75rem;
     margin: auto;
-    margin-top: 2rem;
+    padding-top: 7rem;
   }
 
   .hero img {
