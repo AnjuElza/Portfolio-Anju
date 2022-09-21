@@ -73,7 +73,7 @@ nav {
   }
   nav a:hover {
     color: var(--secondary-color);
-    border-bottom: 2px solid var(--secondary-color);
+    
   }
   
   nav ul {
